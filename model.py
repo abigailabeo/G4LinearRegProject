@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
+import numpy as np
 
 # cgs
 def cgs(A):
