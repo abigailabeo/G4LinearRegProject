@@ -15,5 +15,3 @@ class LinearRegression:
   def predict(self,x):
     predicted_values = x@self.theta
     return predicted_values
-  
-#
