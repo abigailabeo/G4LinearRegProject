@@ -1,5 +1,7 @@
-from get_data.py import get_data
-import analysis_new.py import add_ones, split_data
+from get_data import get_data
+import analysis_new import add_ones, split_data
+import train_new import LinearRegression
+from test import mse
 
 
 # getting the dataset
